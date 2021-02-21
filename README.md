@@ -1,2 +1,4 @@
-# Keylogger-safe-work-environment
-A keylogger built for employee's protection. 
+# Keylogger safe work environment
+
+# Description
+This is a simple keylogger used to monitor employees' activity during cooperation. Inappropriate actions and activity during work can be prevented from an Administrator after being notified from the keylogger.
