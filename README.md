@@ -1,4 +1,4 @@
-# Monitoring App
+# Company Desktop App
 
 # Description
-This is a simple keylogger used to monitor employees' activity during cooperation. Inappropriate actions and activity during work can be prevented from an Administrator after being notified from the keylogger.
+This is a Python application which aims to replace the operating system. The app isn't an operating system but it forces employees to use only software required for their wok. Coleagues can talk to each other using the intergraded chat system and report bugs or other issues with the app.
