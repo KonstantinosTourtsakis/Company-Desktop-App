@@ -1,0 +1,3 @@
+pyinstaller --onefile -w ecorpsoftware-serverui.py
+
+sBO73N*Q1eRcvTH$*wZs
